@@ -8,6 +8,8 @@ matplotlib
 scipy
 scikit-learn
 requests
+uproot
+awkward
 
 # If you need a specific version, pin it like:
 # numpy==1.26.1
