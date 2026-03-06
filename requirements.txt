@@ -1,0 +1,13 @@
+# Example Python dependencies for a SWAN custom environment (Venv builder)
+# Edit this file to include the packages your project needs. SWAN will
+# run `pip install -r requirements.txt` inside the venv.
+jupyterlab
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+requests
+
+# If you need a specific version, pin it like:
+# numpy==1.26.1
